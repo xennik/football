@@ -1,4 +1,4 @@
-# 2. Fix Docker 
+# 2. Fix and Feature Docker 
 #Fix im Kurs
 
 ARG DOCKER_BASE
